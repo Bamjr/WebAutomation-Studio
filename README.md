@@ -12,10 +12,10 @@ This tool is designed to streamline and simplify the process for users who wish 
 
    ```
 
-3. Run the script [Auto.py](Auto.py):
+3. Run the script [Auto_pro_turbo1_with_tutorial.py](Auto_pro_turbo1_with_tutorial.py):
 
    ```bash
-   python Auto.py
+   python Auto_pro_turbo1_with_tutorial.py
    ```
 
 4. Use the GUI to:
