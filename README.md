@@ -3,7 +3,7 @@ This tool is designed to streamline and simplify the process for users who wish 
 
 ## 🚀 How to Use
 
-1. Make sure you have Python installed. (3.11.5 version)
+1. Make sure you have Python installed. (recommend 3.11.9 version)
 2. Install dependencies (e.g., `selenium`, `ttkbootstrap`) via:
 
    ```bash
