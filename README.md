@@ -1,4 +1,21 @@
-# คู่มือการใช้งาน WebAutomation Studio
+# WebAutomation Studio
+
+แอปสำหรับทำ Web Automation ด้วย Selenium
+มีทั้ง Builder Mode และ Python Mode
+
+## วิธีใช้งาน
+1. เปิดโปรแกรม
+2. ไปที่ Custom Chrome Setup
+3. เลือก Profile, Chrome.exe, Chromedriver.exe
+4. เริ่ม Browser
+5. ไปที่ Automation Studio เพื่อสร้าง action
+
+## ดาวน์โหลด
+ดาวน์โหลดเวอร์ชันพร้อมใช้งานได้ที่หน้า Releases
+
+---
+
+# คู่มือการใช้งาน WebAutomation Studio แบบเต็ม
 
 
 
